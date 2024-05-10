@@ -1,6 +1,6 @@
 # Reto 2 - GitHub
 
-![github]([image.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1200px-GitHub_Invertocat_Logo.svg.png))
+![github]((https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1200px-GitHub_Invertocat_Logo.svg.png))
 
 ## Descripción
 Segundo reto de la asignatura entornos de desarrollo del ciclo superior Desarrollo de Aplicaciones Multiplataforma
